@@ -20,7 +20,7 @@ and run the output with `swift run`.
 If you're using Visual Studio Code to edit, you might find these Swift
 extensions useful:
 
-- [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang)
+- [Swift](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode)
   (provides core language edit / debug / test features)
 - [apple-swift-format](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-apple-swift-format)
   (supports the [swift-format](https://github.com/apple/swift-format) package)
